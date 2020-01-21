@@ -16,7 +16,8 @@ ansible-playbook site.yml
 ```
 ## Как проверить работоспособность:
 По ссылке:
-```https://travis-ci.com/otus-devops-2019-08/gekl_infra
+```
+https://travis-ci.com/otus-devops-2019-08/gekl_infra
 ```
 ## PR checklist
 Выставил label - ansible и ansible-4
