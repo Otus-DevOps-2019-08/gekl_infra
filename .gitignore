@@ -13,4 +13,4 @@ vault.key
 .pyc
 .molecule.cache
 .pytest_cache
-*/venv/*
+#*/venv/*
