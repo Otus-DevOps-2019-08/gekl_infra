@@ -1,5 +1,30 @@
+# Выполнено Занятие №12  (ANSIBLE-4)
+## gekl_infra [![Build Status](https://travis-ci.com/otus-devops-2019-08/gekl_infra.svg?branch=ansible-4)](https://travis-ci.com/otus-devops-2019-08/gekl_infra.svg?branch=ansible4)
+
+ - Основное ДЗ
+
+## В процессе сделано:
+
+ - Установлен VirtualBox и Vagrant
+ - Сконфигурирован Vagrant, созданы 2 ВМ
+ - Доработаны роли app и db. Произведен провижининг
+ - Установлена Molecule. Проведено тестирование роли
+
+## Как запустить проект:
+```
+ansible-playbook site.yml
+```
+## Как проверить работоспособность:
+По ссылке:
+```
+https://travis-ci.com/otus-devops-2019-08/gekl_infra
+```
+## PR checklist
+Выставил label - ansible и ansible-4
+
+
 # Выполнено Занятие №12  (ANSIBLE-3)
-## gekl_infra [![Build Status](https://travis-ci.com/otus-devops-2019-05/gekl_infra.svg?branch=ansible-2)](https://travis-ci.com/otus-devops-2019-05/gekl_infra.svg?branch=master)
+## gekl_infra [![Build Status](https://travis-ci.com/otus-devops-2019-05/gekl_infra.svg?branch=ansible-3)](https://travis-ci.com/otus-devops-2019-05/gekl_infra.svg?branch=master)
 
     [*] Переносим созданные плейбуки в раздельные роли
     [*] Описываем два окружения
